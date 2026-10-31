@@ -1,4 +1,8 @@
-h1{
-    background-color: chartreuse;
-    color: green;
+h1 {
+  background-color: chartreuse;
+  color: green;
+}
+
+p {
+  color: red;
 }
